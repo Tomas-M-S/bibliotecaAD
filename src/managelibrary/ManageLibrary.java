@@ -85,7 +85,7 @@ public class ManageLibrary {
                 prestamos presMod = new prestamos("48570441G", "978-84-9892-412-1", d1, d2, d3);
 
                 // Inserta:
-                System.out.println("Insertada/s " + myBIB.insertar(pres) + " fila/s");
+                //System.out.println("Insertada/s " + myBIB.insertar(pres) + " fila/s");
 
                 // Modifica:
                 //System.out.println("Modificada/s " + myBIB.modificar(presMod) + " fila/s");
